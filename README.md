@@ -31,7 +31,7 @@ From my EDA and stats tests, there appeared to be a correlation between the aver
 
 From the statistical tests,  there is not a significant relationship between IMDb ratings and the season the content was added to Netflix and also the relation between ratings and the maturity rating of the Netflix content.
 
-The categories, maturity ratings, and the duration are measured differently between Netflix Movies and TV shows. In addition, after running a two sample t-test, it was found that there is a significant difference in the average IMDb user ratings between Movies and TV shows on Netflix. There for, I chose to evaluate two separate models, one for Movies and one for TV shows.
+The categories, maturity ratings, and the duration are measured differently between Netflix Movies and TV shows. In addition, after running a two sample t-test, it was found that there's significant difference in the average IMDb user ratings between Movies and TV shows on Netflix. There for, I chose to evaluate two separate models, one for Movies and one for TV shows.
 
 ##### Movies
 - R-sqaured : 0.354
