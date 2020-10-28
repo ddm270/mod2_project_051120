@@ -10,9 +10,9 @@ Other than tracking viewership, the average user ratings listed on the Internet 
 ### The Data
 The main data set consists of Netflix titles and was downloaded from the following kaggle user: https://www.kaggle.com/shivamb/netflix-shows?select=netflix_titles.csv
 
-Additionally, the IMDB user ratings for those titles was webscrapped by this kaggle user: https://www.kaggle.com/aalhendi/netflix-movies-and-tv-shows-ratings
-
-To generate a list of the top grossing directors, the folling data set was used: https://www.kaggle.com/tmdb/tmdb-movie-metadata
+Additionally, the IMDB user ratings for those titles was webscrapped by this kaggle user: https://www.kaggle.com/aalhendi/netflix-movies-and-tv-shows-ratings .
+ .
+To generate a list of the top grossing directors, the folling data set was used: https://www.kaggle.com/tmdb/tmdb-movie-metadata .
 
 And lastly, API calls from The Movie Database (TMDb) was also used for this project to get the popularity rating for each TV show and movie.
 
